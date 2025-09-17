@@ -1,0 +1,26 @@
+Date,Description,Amount,Category,Account
+30/11/2023,Banking App Transfer Received from Savings Account (1412275707),400.0,Transfer,Main
+01/12/2023,Banking App Immediate Payment (RTC): Kundi,-400.0,Transfer,Main
+01/12/2023,Immediate Payment Fee (RTC),-7.5,Fee,Main
+01/12/2023,Banking App Cash Sent C*******508,-250.0,Cash Withdrawal,Main
+01/12/2023,Cash Sent Fee,-9.5,Fee,Main
+01/12/2023,Banking App Transfer to Savings Account (1412275707),-300.0,Transfer,Main
+01/12/2023,Banking App Transfer to Savings Account (1412275707),-420.0,Transfer,Main
+01/12/2023,Banking App Prepaid Purchase Cell C,-50.0,Mobile Purchase,Main
+01/12/2023,Prepaid Mobile Purchase Fee,-0.5,Fee,Main
+01/12/2023,Banking App Transfer to Savings Account (1412275707),-400.0,Transfer,Main
+02/12/2023,Banking App Prepaid Purchase Cell C,-12.0,Mobile Purchase,Main
+02/12/2023,Prepaid Mobile Purchase Fee,-0.5,Fee,Main
+02/12/2023,Banking App Prepaid Purchase Cell C,-20.0,Mobile Purchase,Main
+02/12/2023,Prepaid Mobile Purchase Fee,-0.5,Fee,Main
+02/12/2023,Banking App Cash Sent C*******598,-2000.0,Cash Withdrawal,Main
+02/12/2023,Cash Sent Fee,-16.0,Fee,Main
+02/12/2023,Banking App Transfer to Savings Account (1412275707),-300.0,Transfer,Main
+02/12/2023,Banking App Immediate Payment (RTC): Kundi,-70.0,Transfer,Main
+02/12/2023,Immediate Payment Fee (RTC),-7.5,Fee,Main
+02/12/2023,Banking App Transfer to Savings Account (1412275707),-200.0,Transfer,Main
+03/12/2023,Banking App Transfer to Savings Account (1412275707),-150.0,Transfer,Main
+03/12/2023,Banking App Transfer to Savings Account (1412275707),-200.0,Transfer,Main
+03/12/2023,Banking App Immediate Payment (RTC): Sibusis Torga,-900.0,Transfer,Main
+03/12/2023,Immediate Payment Fee (RTC),-7.5,Fee,Main
+03/12/2023,Banking App Transfer to Savings Account (1412275707),-300.0,Transfer,Main
