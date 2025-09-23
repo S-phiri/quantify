@@ -1,0 +1,26 @@
+Date,Description,Amount,Category,Account,Balance
+2025-01-01,Mock Transaction 1-1,0,Transfer,Main,1000
+2025-01-02,Mock Transaction 1-2,10,Transfer,Main,1010
+2025-01-03,Mock Transaction 1-3,20,Fee,Main,1030
+2025-01-04,Mock Transaction 1-4,30,Cash Withdrawal,Main,1060
+2025-01-05,Mock Transaction 1-5,40,Fee,Main,1100
+2025-01-06,Mock Transaction 1-6,50,Transfer,Main,1150
+2025-01-07,Mock Transaction 1-7,60,Transfer,Main,1210
+2025-01-08,Mock Transaction 1-8,70,Mobile Purchase,Main,1280
+2025-01-09,Mock Transaction 1-9,80,Fee,Main,1360
+2025-01-10,Mock Transaction 1-10,90,Transfer,Main,1450
+2025-01-11,Mock Transaction 1-11,100,Mobile Purchase,Main,1550
+2025-01-12,Mock Transaction 1-12,110,Fee,Main,1660
+2025-01-13,Mock Transaction 1-13,120,Mobile Purchase,Main,1780
+2025-01-14,Mock Transaction 1-14,130,Fee,Main,1910
+2025-01-15,Mock Transaction 1-15,140,Cash Withdrawal,Main,2050
+2025-01-16,Mock Transaction 1-16,150,Fee,Main,2200
+2025-01-17,Mock Transaction 1-17,160,Transfer,Main,2360
+2025-01-18,Mock Transaction 1-18,170,Transfer,Main,2530
+2025-01-19,Mock Transaction 1-19,180,Fee,Main,2710
+2025-01-20,Mock Transaction 1-20,190,Transfer,Main,2900
+2025-01-21,Mock Transaction 1-21,200,Transfer,Main,3100
+2025-01-22,Mock Transaction 1-22,210,Transfer,Main,3310
+2025-01-23,Mock Transaction 1-23,220,Transfer,Main,3530
+2025-01-24,Mock Transaction 1-24,230,Fee,Main,3760
+2025-01-25,Mock Transaction 1-25,240,Transfer,Main,4000

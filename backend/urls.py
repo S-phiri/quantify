@@ -16,11 +16,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from backend.ingestor.views import csrf, health
+from backend.ingestor.views import csrf, health, user_login, user_logout, user_signup
 
 urlpatterns = [
     path("api/health/", health),
     path("api/auth/csrf/", csrf),
+    path("api/auth/login/", user_login),
+    path("api/auth/logout/", user_logout),
+    path("api/auth/signup/", user_signup),
     path("api/", include("backend.ingestor.urls")),
     path('admin/', admin.site.urls),
 ]
